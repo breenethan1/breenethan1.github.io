@@ -1,6 +1,7 @@
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 5px;
+    text-shadow: h-offset v-offset blur radius color(srgb red rgb(40, 66, 40) blue);
 }
 #logo{
     margin: 2px;
