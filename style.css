@@ -5,7 +5,7 @@ body{
 #logo{
     margin: 2px;
     padding: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     width: auto;
     text-shadow: 8px green;
 }
@@ -16,7 +16,7 @@ body > header {
     background-color: lightgreen;
     color: green;
     display: flex;
-    height: 114vh;
+    height: 14vh;
     align-items: center;
     justify-content: space-around;
 }
