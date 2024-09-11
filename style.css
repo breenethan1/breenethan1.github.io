@@ -83,6 +83,6 @@ img {
     margin-left: 14px;
 }
 #footer-ul > div > li > a {
-    text-decoration: none;
-    color: white;
+    text-decoration: yellow;
+    color: grey;
 }
